@@ -2,7 +2,12 @@ Bonjour, je m'appelle Thomas Thirion ![](https://user-images.githubusercontent.c
 
 Développeur web Node.js React, Next.
 
-Dans le monde du développement web depuis maintenant deux ans et demi (en date de janvier 2024), je me lance en tant que freelance après avoir passé un diplôme et un baccalauréat de concepteur développeur d'applications. Ma préférence penche pour Node.Js et React et je me forme sérieusement à Nest.js ainsi qu'à Typescript * 🌍 Je suis basé à Paris * ✉️ Vous pouvez me contacter à [thomas.devweb94@gmail.com](mailto:thomas .devweb94@gmail.com)[](mailto:thomas.devweb94@gmail.com)
+Dans le monde du développement web depuis maintenant deux ans et demi (en date de janvier 2024), je me lance en tant que freelance après avoir passé un diplôme et un baccalauréat de concepteur développeur d'applications. Ma préférence penche pour Node.Js et React et je me forme sérieusement à Nest.js ainsi qu'à Typescript
+
+ 🌍 Je suis basé à Paris 
+
+
+ ✉️ Vous pouvez me contacter à [thomas.devweb94@gmail.com](mailto:thomas .devweb94@gmail.com)[](mailto:thomas.devweb94@gmail.com)
 
 ### Compétences
 
